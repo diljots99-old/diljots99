@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diljots99&show_icons=true&locale=en" alt="diljots99" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diljots99&" alt="diljots99" /></p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diljots99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/diljots99?trk=profile-badge">Diljot Singh</a></div>
+              
