@@ -7,11 +7,11 @@
   
 
   
-- 🌱 I’m currently learning **Blockchain**  
-  
-- 💬 Ask me about **Android, .NET**  
+- 💬 Ask me about **Django, Python ,Android, .NET**  
   
 - 📫 How to reach me **diljots99@gmail.com**  
+
+- 🌱 I’m currently learning **Blockchain**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
