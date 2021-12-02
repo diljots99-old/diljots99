@@ -7,9 +7,9 @@
   
 
   
-- 💬 Ask me about **Django, Python ,Android, .NET**  
+- 💬 Ask me about **Django, Python ,Android, .NET,Blockchain**  
   
-- 📫 How to reach me **diljots99@gmail.com**  
+- 📫 How to reach me **diljots99@gmail.com **  
 
 - 🌱 I’m currently learning **Blockchain**  
   
